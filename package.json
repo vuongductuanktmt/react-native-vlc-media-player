@@ -19,12 +19,12 @@
   ],
   "author": "rmilinda@gmail.com",
   "dependencies": {
-    "react-native-slider": "^0.11.0",
-    "react-native-vector-icons": "^6.6.0"
+    "react-native-slider": "latest",
+    "react-native-vector-icons": "latest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/razorRun/react-native-vlc-media-player.git"
+    "url": "git+https://github.com/vuongductuanktmt/react-native-vlc-media-player.git"
   },
   "license": "MIT",
   "bugs": {
